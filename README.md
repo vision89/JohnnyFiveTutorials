@@ -10,7 +10,9 @@ https://bit.ly/2Zmy1iH
 
 ### Where I'm at ###
 Experiment 1: Make an LED blink
+
 Code: src/led.js
+
 Video: [![](http://img.youtube.com/vi/wbSchAi2qRk/0.jpg)](http://www.youtube.com/watch?v=wbSchAi2qRk "")
 
 ^^ Click this
