@@ -18,3 +18,16 @@ Video:
 [![](http://img.youtube.com/vi/wbSchAi2qRk/0.jpg)](http://www.youtube.com/watch?v=wbSchAi2qRk "")
 
 ^^ Click this
+
+Experiment 2: Multiple LEDs
+
+Code:   src/side-to-side.js
+        src/one-by-one-on-off.js
+        src/one-by-one-clear-repeat.js
+        src/collision.js
+
+Video: 
+
+[![](http://img.youtube.com/vi/NWs3Gs7iXhQ/0.jpg)](http://www.youtube.com/watch?v=NWs3Gs7iXhQ "")
+
+^^ Click this
