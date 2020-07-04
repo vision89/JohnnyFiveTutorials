@@ -31,3 +31,16 @@ Video:
 [![](http://img.youtube.com/vi/NWs3Gs7iXhQ/0.jpg)](http://www.youtube.com/watch?v=NWs3Gs7iXhQ "")
 
 ^^ Click this
+
+Experiment 3: Reading a Potentiometer
+
+Code:   src/sensor-basic.js
+        src/sensor-graph.js
+        src/sensor-input-to-output.js
+        src/sensor-one-at-a-time.js
+
+Video: 
+
+[![](http://img.youtube.com/vi/UM1e0I1gAks/0.jpg)](http://www.youtube.com/watch?v=UM1e0I1gAks "")
+
+^^ Click this
