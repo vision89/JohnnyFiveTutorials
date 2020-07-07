@@ -22,8 +22,11 @@ Video:
 Experiment 2: Multiple LEDs
 
 Code:   src/side-to-side.js
+        
         src/one-by-one-on-off.js
+        
         src/one-by-one-clear-repeat.js
+        
         src/collision.js
 
 Video: 
@@ -35,8 +38,11 @@ Video:
 Experiment 3: Reading a Potentiometer
 
 Code:   src/sensor-basic.js
+        
         src/sensor-graph.js
+        
         src/sensor-input-to-output.js
+        
         src/sensor-one-at-a-time.js
 
 Video: 
@@ -48,8 +54,11 @@ Video:
 Experiment 4: Reading a Push Button
 
 Code:   src/button.js
+        
         src/button-single.js
+        
         src/button-blink.js
+        
         src/buttons-leds.js
 
 Video: 
@@ -61,7 +70,9 @@ Video:
 Experiment 5: Reading an SPDT Switch
 
 Code:   src/switch.js
+        
         src/switch-led.js
+        
         src/intruder-alert.js
 
 Video: 
