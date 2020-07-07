@@ -57,3 +57,19 @@ Video:
 [![](http://img.youtube.com/vi/p8wwgsaUfO0/0.jpg)](http://www.youtube.com/watch?v=p8wwgsaUfO0 "")
 
 ^^ Click this
+
+Experiment 5: Reading an SPDT Switch
+
+Code:   src/switch.js
+        src/switch-led.js
+        src/intruder-alert.js
+
+Video: 
+
+[![](http://img.youtube.com/vi/jW-yNd5XRm4/0.jpg)](http://www.youtube.com/watch?v=jW-yNd5XRm4 "")
+
+^^ Click this
+
+[![](http://img.youtube.com/vi/UNIIWGEu-Zo/0.jpg)](http://www.youtube.com/watch?v=UNIIWGEu-Zo "")
+
+^^ Click this
