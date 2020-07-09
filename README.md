@@ -94,3 +94,21 @@ Video:
 [![](http://img.youtube.com/vi/UNIIWGEu-Zo/0.jpg)](http://www.youtube.com/watch?v=UNIIWGEu-Zo "")
 
 ^^ Click this
+
+Experiment 6: Reading a Light Sensor
+
+Code:   
+        
+        src/light.js
+        
+        src/light-bar-chart.js
+        
+        src/nightlight.js
+
+        src/nightlight2.js
+
+Video: 
+
+[![](http://img.youtube.com/vi/Wyazy_WRBlo/0.jpg)](http://www.youtube.com/watch?v=Wyazy_WRBlo "")
+
+^^ Click this
