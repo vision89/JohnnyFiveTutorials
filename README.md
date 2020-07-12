@@ -112,3 +112,25 @@ Video:
 [![](http://img.youtube.com/vi/Wyazy_WRBlo/0.jpg)](http://www.youtube.com/watch?v=Wyazy_WRBlo "")
 
 ^^ Click this
+
+Experiment 7: Animating LEDs
+
+Code:   
+        
+        src/fade-in.js
+        
+        src/fade-in-out.js
+        
+        src/cross-fade.js
+
+        src/fader-easing.js
+
+        src/keyframes-fade-in.js
+
+        src/keyframes-multiple.js
+
+Video: 
+
+[![](http://img.youtube.com/vi/40BMLJS6Esk/0.jpg)](http://www.youtube.com/watch?v=40BMLJS6Esk "")
+
+^^ Click this
