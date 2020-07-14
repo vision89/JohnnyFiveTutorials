@@ -134,3 +134,19 @@ Video:
 [![](http://img.youtube.com/vi/40BMLJS6Esk/0.jpg)](http://www.youtube.com/watch?v=40BMLJS6Esk "")
 
 ^^ Click this
+
+Experiment 8: Driving an RGB LED
+
+Code:   
+        
+        src/rgb-led.js
+        
+        src/rgb-led-8bit.js
+        
+        src/keyframes-rainbow.js
+
+Video: 
+
+[![](http://img.youtube.com/vi/sDBR7MTHT4s/0.jpg)](http://www.youtube.com/watch?v=sDBR7MTHT4s "")
+
+^^ Click this
