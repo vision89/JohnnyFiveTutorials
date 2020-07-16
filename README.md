@@ -150,3 +150,19 @@ Video:
 [![](http://img.youtube.com/vi/sDBR7MTHT4s/0.jpg)](http://www.youtube.com/watch?v=sDBR7MTHT4s "")
 
 ^^ Click this
+
+Experiment 9: Using an H-Bridge Motor Controller
+
+Code:   
+        
+        src/motor-single.js
+        
+        src/motor-speed-direction.js
+        
+        src/motor-multi-speed-direction.js
+
+Video: 
+
+[![](http://img.youtube.com/vi/buElJU9H6XQ/0.jpg)](http://www.youtube.com/watch?v=buElJU9H6XQ "")
+
+^^ Click this
